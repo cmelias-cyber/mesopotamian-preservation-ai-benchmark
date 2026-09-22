@@ -1,6 +1,7 @@
 # Testing General-Purpose LLMs on Under-Documented Cultural Heritage through Erasure of Distinct Sub-Traditions and Misattribution of Contested Facts
 
-### *A Case Study Using the Mesopotamian Aroma Preservation Initiative's Archive, a heritage preservation non-profit*
+### *A Case Study Using the Mesopotamian Aroma Preservation Initiative's Archive, 
+a heritage preservation non-profit*
 
 > **One-line Summary:** Benchmarking four general-purpose LLMs against a retrieval-grounded assistant built on MAPI's verified archive across two core failure modes—representational erasure of distinct sub-traditions and false confidence on under-documented facts—to produce reusable evaluation guidance for cultural and public-interest organizations.
 
