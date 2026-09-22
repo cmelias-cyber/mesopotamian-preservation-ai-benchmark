@@ -8,9 +8,9 @@
 
 ## Overview
 
-This repository contains the research assets, benchmark schemas, evaluation rubrics, and security specifications for the 12-week study funded through the BlueDot Rapid Grant initiative.
+The Mesopotamian Aroma Preservation Initiative’s (MAPI) website will serve as the foundation for a controlled research environment. Grant funding will support the integration and secure deployment of a limited-access, retrieval-augmented generation (RAG) prototype grounded in MAPI’s verified archive, together with hosting, backups, access controls, evaluation infrastructure, and participant-testing capabilities. The study will create a structured benchmark and compare responses from four widely used general-purpose LLMs with responses from the MAPI retrieval-grounded assistant.
 
-The project evaluates how general-purpose large language models (LLMs) handle under-documented cultural heritage across seven distinct regional, minority, and diasporic sub-traditions (Assyrian, Chaldean, Mandaean, Kurdish, Jewish, Sunni Muslim, and regional/diasporic communities across Türkiye and Iraq).
+The benchmark focuses on two recurring epistemic failure modes. First, it tests whether systems erase or flatten distinct Assyrian, Chaldean, Mandaean, Kurdish, Jewish, Sunni Muslim, and other regional or diasporic traditions into a generic “Mesopotamian” narrative. Second, it tests whether systems misattribute sources or present contested and under-documented claims with false confidence. The assistant is the experimental comparison system, not merely a product deliverable. The intended outputs are comparative evidence, a reusable benchmark and evaluation toolkit, and practical guidance for other cultural organizations.
 
 ## Core Deliverables
 
@@ -21,9 +21,10 @@ The project evaluates how general-purpose large language models (LLMs) handle un
 
 ## Repository Structure (Work in Progress)
 
-- `prompt-schema-pilot.json` — Pilot dataset (10–20 prompts) testing baseline failure modes.
+- `prompt-schema-and-examples.md` — Prompt schema specs and pilot prompt examples testing baseline failure modes.
 - `scoring-rubric-draft.md` — Draft failure taxonomy and qualitative rater guidelines.
-- `rag-architecture-spec.md` — Security boundaries and defense-in-depth integration notes.
+- `project-scope-and-budget.md` — Itemized $20k budget breakdown and execution scope.
+- `upcoming-implementation-plan.md` — Post-award execution roadmap and planned directory structure.
 
 ## License
 
