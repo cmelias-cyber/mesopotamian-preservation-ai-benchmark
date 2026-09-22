@@ -1,3 +1,18 @@
+# Pilot Prompt Schema & Benchmark Metadata
+
+This document outlines the metadata structure, failure modes, and target traditions for the Mesopotamian Preservation AI Benchmark.
+
+## Benchmark Metadata
+* **Version:** `0.1.0-pilot`
+* **Target Total Prompts:** 150
+* **Evaluations per Prompt:** 3 (producing 2,250+ outputs)
+* **Represented Traditions:** Assyrian, Chaldean, Mandaean, Kurdish, Jewish, Sunni Muslim, Regional/Diasporic
+
+---
+
+## Schema Structure (JSON)
+
+```json
 {
   "benchmark_metadata": {
     "title": "Mesopotamian Preservation AI Benchmark (Pilot)",
@@ -41,3 +56,4 @@
     "inter_rater_reliability"
   ]
 }
+```
