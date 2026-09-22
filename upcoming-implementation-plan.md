@@ -1,6 +1,6 @@
 # Upcoming Implementation Plan & Target Repository Structure
 
-This document outlines the planned repository structure and execution workflow for the 12-week grant period upon funding award. 
+This document outlines part of the planned repository structure and execution workflow for the 12-week grant period upon funding award. 
 
 The proposal specs currently in the root directory will be maintained as baseline reference assets under `/docs/proposal/`, while live execution data and scripts will populate dedicated directories.
 
