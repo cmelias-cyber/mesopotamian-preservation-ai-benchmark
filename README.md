@@ -3,7 +3,7 @@
 ### *A Case Study Using the Mesopotamian Aroma Preservation Initiative's Archive, a Heritage Preservation Non-Profit*
 
 > **One-line Summary:** Benchmarking four general-purpose LLMs against a retrieval-grounded assistant built on MAPI's verified archive across two core failure modes—representational erasure of distinct sub-traditions and false confidence on under-documented facts—to produce reusable evaluation guidance for cultural and public-interest organizations.
-
+ 
 ---
 
 ## Overview
